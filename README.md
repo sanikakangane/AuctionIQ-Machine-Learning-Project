@@ -4,8 +4,8 @@
 **Predict. Compare. Discover.**
 
 <p align="center">
-  <a href="https://auction-iq-machine-learning-project.vercel.app">
-    https://auction-iq-machine-learning-project.vercel.app
+  <a href="https://auction-iq-project.vercel.app">
+    https://auction-iq-project.vercel.app
   </a>
 </p>
 
