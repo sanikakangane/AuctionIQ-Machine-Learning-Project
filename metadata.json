@@ -1,0 +1,8 @@
+{
+  "name": "AuctionIQ",
+  "description": "Predict. Compare. Discover. An IPL Player Auction Price Prediction web application powered by Linear Regression and Random Forest machine learning models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
